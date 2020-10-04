@@ -12,7 +12,7 @@
 
 ## Genarte Dataset
 
-- use 'https://github.com/EscVM/OIDv4_ToolKit'
+- use https://github.com/EscVM/OIDv4_ToolKit
 - set varible path to /path/to/images
 
 
